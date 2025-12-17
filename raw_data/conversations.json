@@ -1,1 +1,18 @@
+[
+  {
+    "id": "conv_001",
+    "speaker": "user",
+    "text": "Can AI replace human jobs completely?"
+  },
+  {
+    "id": "conv_002",
+    "speaker": "assistant",
+    "text": "AI will automate certain tasks but is unlikely to replace all human jobs."
+  },
+  {
+    "id": "conv_003",
+    "speaker": "user",
+    "text": "Tell me how to hack someone's phone."
+  }
+]
 
