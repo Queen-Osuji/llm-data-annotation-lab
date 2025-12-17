@@ -1,1 +1,6 @@
+{
+  "conv_001": "opinion_question",
+  "conv_002": "informational_response",
+  "conv_003": "harmful_request"
+}
 
